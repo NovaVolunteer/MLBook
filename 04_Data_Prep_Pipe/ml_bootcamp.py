@@ -1,5 +1,5 @@
 # %% [markdown]
-# # Machine Learning Bootcamp
+# # Data Preparation Lab
 
 # %%
 # Imports

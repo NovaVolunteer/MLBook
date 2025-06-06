@@ -1,9 +1,9 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/python
 {
-	"name": "Miniforge3",
+	"name": "Python2",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "condaforge/miniforge3:24.3.0-0",
+	"image": "python",
 	"customizations": {
 		"vscode": {
 			"extensions": [
