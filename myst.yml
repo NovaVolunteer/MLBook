@@ -32,14 +32,24 @@ project:
         - file: 04_Data_Prep_Pipe/ml_bootcamp.ipynb
         - file: 04_Data_Prep_Pipe/ch4.ipynb
         - file: 04_Data_Prep_Pipe/ML_Bootcamp_Lab.md
-    - title:  Linear Regression for Predication
-      children: 
-        - file: 05_linear_regression/types_reg_eval.ipynb
-        - file: 05_linear_regression/linear_reg_overview.ipynb
-        - file: 05_linear_regression/multi-features.ipynb
-        - file: 05_linear_regression/ols.ipynb
-        - file: 05_linear_regression/polynomial.ipynb
-        - file: 05_linear_regression/assignment.ipynb    
+    - title: Phase III Models
+      children:
+        - title: Linear Regression for Prediction
+          children: 
+            - file: 05_linear_regression/types_reg_eval.ipynb
+            - file: 05_linear_regression/linear_reg_overview.ipynb
+            - file: 05_linear_regression/multi-features.ipynb
+            - file: 05_linear_regression/ols.ipynb
+            - file: 05_linear_regression/polynomial.ipynb
+            - file: 05_linear_regression/assignment.ipynb
+        - title: k Nearest Neighbors for Classification
+          children: 
+            - file: 06_knn/KNN.ipynb
+            - file: 06_knn/grad_lab.ipynb
+        - title: Evaluation
+          children: 
+            - file: 07_ML_Eval_Metrics/knn_eval_example.ipynb
+            - file: 07_ML_Eval_Metrics/Model_Metrics_Lab_Updated.md  
 site:
   template: book-theme
   options:
