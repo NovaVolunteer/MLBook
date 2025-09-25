@@ -49,7 +49,11 @@ project:
         - title: Evaluation
           children: 
             - file: 07_ML_Eval_Metrics/knn_eval_example.ipynb
-            - file: 07_ML_Eval_Metrics/Model_Metrics_Lab_Updated.md  
+            - file: 07_ML_Eval_Metrics/Model_Metrics_Lab_Updated.md
+        - title: Decision Trees
+          children: 
+            - file: decision_trees/08_DT_Class/decision_trees.ipynb
+            - file: decision_trees/08_DT_Class/DT_Class_Lab.ipynb
 site:
   template: book-theme
   options:
