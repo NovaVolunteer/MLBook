@@ -93,7 +93,7 @@ On any given week, the course will require reviewing short video lectures and co
     
 ## Tech Stack
 
-    VS Code + Dev Container (Docker) - You'll need to have the software loaded and ready to go day one, but we will help if needed. 
+    VS Code + GitHub Codespaces - virtual machines with a VS Code environment. 
     Github - Almost all course materials (will post on Canvas as needed)
     Canvas - Submission of assignments and class-wide communications
     Discord - Low latency comms for groups and class.
@@ -171,5 +171,6 @@ Technical Support Contacts
     Login/Password: scpshelpdesk@virginia.edu
     UVaCollab: collab-support@virginia.edu
     BbCollaborate Support: http://www.tinyurl.com/uvabbc
+
 
 
