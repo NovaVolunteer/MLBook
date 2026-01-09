@@ -68,25 +68,28 @@ The course will move rather quickly and can be demanding at times. However, if w
 On any given week, the course will require reviewing short video lectures and completing readings prior to coming to class.  These lectures and readings will then be implemented in the lab portion of the course which will be conducted during the scheduled class period.  Lab sessions will include a variety of activities but mostly be centered on team-oriented ML assignments.  .
 
     
-    Quizzes (15%) – Short occasional (8ish) quizzes, will be auto-graded, 
-    so you will get instant feedback. In order to ensure we are all meeting 
-    the learning objectives from week to week. You will be allowed as many 
-    chances to complete the quiz as needed, they will be open note, 
-    but students are to work independently. 
+    Quizzes (20%) – Short occasional (4ish) quizzes, will be given in class designed to 
+    last 30 minutes each, might be on paper, just need to ensure you are understanding the 
+    topics you are being presented. Lots of oppurtunity to improve your scores on these
+    as needed. 
     
-    Labs (60%) – On most weeks we will have in-class labs/assignments. These 
+    Labs (55%) – On most weeks we will have in-class labs/assignments. These 
     are designed to allow you to practice the skills being presented in class. 
     While they should be submitted individually you are encouraged to work with 
     your peers as much of the best learning can come from your each other. 
     You'll create stand-alone Juypter notebooks to be evaluated by the course TA. 
    
-    Final projects (25%) – The course will culminate in a final project that 
+    Final projects (15%) – The course will culminate in a final project that 
     will involve working with a dataset of your choice, giving a presentation, 
     submitting well-annotated code to include summary information in report form. 
     This is an open-ended project designed to allow groups to choose a topic of 
     interest from the semester to explore deeper and share with the class. Students 
     will be expected to build the project using github and develop a free standing 
     website built with one of the tools presented in class (GitHub.io or MYST Book)
+
+    Final Oral Exam (10%) - In reviewing your projects I will design several questions 
+    for you individual to answer with your groups. The idea is to give you practice explaining
+    your models while also ensuring you understand what you are doing. 
     
 ## Tech Stack
 
@@ -168,3 +171,4 @@ Technical Support Contacts
     Login/Password: scpshelpdesk@virginia.edu
     UVaCollab: collab-support@virginia.edu
     BbCollaborate Support: http://www.tinyurl.com/uvabbc
+
