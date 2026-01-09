@@ -10,19 +10,19 @@ A digital version of syllabus:  [https://novavolunteer.github.io/MLBook/readme](
 
 * Brian Wright, Ph.D., Office: TBD
 * Email: brianwright@virginia.edu
-* TA: Marco Gutierrez Chavez
-* Email: sgw3fy@virginia.edu
+* TA: 
+* Email: 
 * Class Location: School of Data Science Building 
 
-Brian's Office Hours: In person in my office SDS Building 434 or Virtual on Discord - Monday 1-3pm 
+Brian's Office Hours: In person in my office SDS Building 434 or Virtual on Discord - TBD
 
-TA office hours: Marco Gutierrez Chavez - Tues/Thurs 1:15 - 3:15 pm 
+TA office hours: TBD
 
 Course Materials: [**Foundations of Machine Learning Repo**](https://github.com/UVADS/DS-3001/3021)
 
 Subject Area and Catalog Number: Data Science, DS 3021
 
-Year, Term and Time: 2025, Spring, T/Th 
+Year, Term and Time: 2026, Spring, T/Th 
 
 Class Title: Foundations of Machine Learning 
 
@@ -171,4 +171,5 @@ Technical Support Contacts
     Login/Password: scpshelpdesk@virginia.edu
     UVaCollab: collab-support@virginia.edu
     BbCollaborate Support: http://www.tinyurl.com/uvabbc
+
 
