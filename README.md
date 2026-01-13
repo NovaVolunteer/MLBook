@@ -1,6 +1,6 @@
 ---
 title: DS 3023 Foundations of Data Science Syllabus
-date: 01/09/2025
+date: 01/13/2026
 export: pdf
 ---
 
@@ -170,6 +170,7 @@ Technical Support Contacts
     Login/Password: scpshelpdesk@virginia.edu
     UVaCollab: collab-support@virginia.edu
     BbCollaborate Support: http://www.tinyurl.com/uvabbc
+
 
 
 
