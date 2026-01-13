@@ -32,7 +32,11 @@ Today we are going to work through getting all our environments setup and do som
 2. Find the extension in the Dev Container Menu and add it to you Dev Container json file
 3. Save the file, this should trigger a re-build message, go ahead and rebuild your container
 
-### Github 
-1. You've made several changes to your environment 
-2. Commit and push these changes to your repo
+### Create a virtual environment
+1. open a bash terminal 
+2. type the command for creating a virtual environment
+3. make sure the environment is activated
 
+
+### Create a requirements.txt file
+1. use the correct terminal commands to pip freeze to a requirements file
