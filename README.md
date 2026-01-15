@@ -8,21 +8,21 @@ A digital version of syllabus:  [https://novavolunteer.github.io/MLBook/readme](
 
 ## Your Foundations of Machine Learning Tour Guides: 
 
-* Brian Wright, Ph.D., Office: TBD
+* Brian Wright, Ph.D., Office: SDS Building 434
 * Email: brianwright@virginia.edu
-* TA: 
-* Email: 
-* Class Location: School of Data Science Building 
+* TA: Dailin Li
+* Email: esd4uq@virginia.edu
+* Class Location: School of Data Science Building, 205
 
-Brian's Office Hours: In person in my office SDS Building 434 or Virtual on Discord - TBD
+Brian's Office Hours: In person in my office SDS Building 434 or Virtual on Discord - Monday 10-12pm or by appointment
 
 TA office hours: TBD
 
-Course Materials: [**Foundations of Machine Learning Repo**](https://github.com/UVADS/DS-3001/3021)
+Course Materials: [**Foundations of Machine I Online Book**](https://novavolunteer.github.io/MLBook/)
 
 Subject Area and Catalog Number: Data Science, DS 3021
 
-Year, Term and Time: 2026, Spring, T/Th 
+Year, Term and Time: 2026, Spring, T/Th 2 - 3:15 PM
 
 Class Title: Foundations of Machine Learning 
 
