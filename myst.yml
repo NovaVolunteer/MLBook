@@ -5,6 +5,8 @@ project:
   title: Foundations of Machine Learning I Book
   jupyter: 
     lite: true
+  bibliography:
+    - references.bib
   # description:
   # keywords: []
   authors: Brian Wright
