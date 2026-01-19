@@ -42,7 +42,7 @@ project:
             - file: 05_linear_regression/ols.ipynb
             - file: 05_linear_regression/polynomial.ipynb
             - file: 05_linear_regression/assignment.ipynb
-            - file: tbd logisitic regression
+            - file: 05_linear_regression/logistic_regression_overview.ipynb
         - title: k Nearest Neighbors for Classification
           children: 
             - file: 06_knn/KNN.ipynb
