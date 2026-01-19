@@ -42,6 +42,7 @@ project:
             - file: 05_linear_regression/ols.ipynb
             - file: 05_linear_regression/polynomial.ipynb
             - file: 05_linear_regression/assignment.ipynb
+            - file: tbd logisitic regression
         - title: k Nearest Neighbors for Classification
           children: 
             - file: 06_knn/KNN.ipynb
@@ -54,6 +55,18 @@ project:
           children: 
             - file: decision_trees/08_DT_Class/decision_trees.ipynb
             - file: decision_trees/08_DT_Class/DT_Class_Lab.ipynb
+        - title: Bootstrap Aggregating (Bagging) and Cross-Validation
+          children: 
+            - file: tbd
+            - file: tbd
+        - title: Principal Component Analysis (PCA)
+          children: 
+            - file: tbd
+            - file: tbd
+        - title: 'Ensemble Learning: Random Forests'
+          children: 
+            - file: tbd
+            - file: tbd
 site:
   template: book-theme
   options:
