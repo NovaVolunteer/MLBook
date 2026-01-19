@@ -61,8 +61,8 @@ project:
             - file: tbd
         - title: Principal Component Analysis (PCA)
           children: 
-            - file: tbd
-            - file: tbd
+            - file: PCA/pca.ipynb
+            - file: PCA/pca_examples.ipynb
         - title: 'Ensemble Learning: Random Forests'
           children: 
             - file: tbd
