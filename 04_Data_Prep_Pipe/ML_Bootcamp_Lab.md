@@ -14,12 +14,12 @@ Step two: Work through the steps outlined in the examples to include the followi
 
   * What is a independent Business Metric for your problem? 
   * Data preparation:  
-    * correct variable type/class as needed
-    * collapse factor levels as needed
-    * one-hot encoding factor variables 
-    * normalize the continuous variables
-    * drop unneeded variables
-    * create target variable if needed
+  * correct variable type/class as needed
+  * collapse factor levels as needed
+  * one-hot encoding factor variables 
+  * normalize the continuous variables
+  * drop unneeded variables
+  * create target variable if needed
   * Calculate the prevalence of the target variable 
   * Create the necessary data partitions (Train,Tune,Test)
   
