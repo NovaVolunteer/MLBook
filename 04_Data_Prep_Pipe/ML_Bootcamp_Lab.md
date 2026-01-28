@@ -4,7 +4,7 @@ Step one: Review these two datasets and brainstorm problems that could be addres
 
 [College Completion Data Dictionary + Data](https://www.kaggle.com/datasets/thedevastator/boost-student-success-with-college-completion-da/data)
 
-  - Dataset is in the data file in the DS 3021 repo, but was added after class started so you may need to "git pull" to get it.
+  - [Dataset is located here:](https://github.com/UVADS/DS-3021/blob/main/data/cc_institution_details.csv)
 
 [Job_Placement](https://raw.githubusercontent.com/DG1606/CMS-R-2020/master/Placement_Data_Full_Class.csv) 
 
@@ -12,17 +12,19 @@ Step one: Review these two datasets and brainstorm problems that could be addres
 
 Step two: Work through the steps outlined in the examples to include the following elements: 
 
-  * What is a independent Business Metric for your problem? 
+  * Write a generic question that this dataset could address.
+  * What is a independent Business Metric for your problem? Think about the case study examples we have discussed in class.
   * Data preparation:  
-  * correct variable type/class as needed
-  * collapse factor levels as needed
-  * one-hot encoding factor variables 
-  * normalize the continuous variables
-  * drop unneeded variables
-  * create target variable if needed
-  * Calculate the prevalence of the target variable 
-  * Create the necessary data partitions (Train,Tune,Test)
+    * correct variable type/class as needed
+    * collapse factor levels as needed
+    * one-hot encoding factor variables 
+    * normalize the continuous variables
+    * drop unneeded variables
+    * create target variable if needed
+    * Calculate the prevalence of the target variable 
+    * Create the necessary data partitions (Train,Tune,Test)
   
 Step three: What do your instincts tell you about the data. Can it address your problem, what areas/items are you worried about? 
 
-Step four: Create functions for your two pipelines that produces the train and test datasets.
+Step four: Create functions for your two pipelines that produces the train and test datasets. The end result should be two functions that can be called to produce the train and test datasets for each of your two problems that includes all the data prep steps you took.
+
