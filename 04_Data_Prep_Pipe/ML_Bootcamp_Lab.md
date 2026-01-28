@@ -26,5 +26,5 @@ Step two: Work through the steps outlined in the examples to include the followi
   
 Step three: What do your instincts tell you about the data. Can it address your problem, what areas/items are you worried about? 
 
-Step four: Create functions for your two pipelines that produces the train and test datasets. The end result should be two functions that can be called to produce the train and test datasets for each of your two problems that includes all the data prep steps you took.
+Step four: Create functions for your two pipelines that produces the train and test datasets. The end result should be two functions that can be called to produce the train and test datasets for each of your two problems that includes all the data prep steps you took. This is essentially creating a DAG for your data prep steps. Imagine you will need to do this for multiple problems in the future so creating functions that can be reused is important. 
 
