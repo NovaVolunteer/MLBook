@@ -4,7 +4,7 @@ Step one: Review these two datasets and brainstorm problems that could be addres
 
 [College Completion Data Dictionary + Data](https://www.kaggle.com/datasets/thedevastator/boost-student-success-with-college-completion-da/data)
 
-  - [Dataset is located here:](https://github.com/UVADS/DS-3021/blob/main/data/cc_institution_details.csv)
+  - [Dataset is located here](https://github.com/UVADS/DS-3021/blob/main/data/cc_institution_details.csv)
 
 [Job_Placement](https://raw.githubusercontent.com/DG1606/CMS-R-2020/master/Placement_Data_Full_Class.csv) 
 
