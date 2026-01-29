@@ -14,7 +14,7 @@ A digital version of syllabus:  [https://novavolunteer.github.io/MLBook/readme](
 * Email: esd4uq@virginia.edu
 * Class Location: School of Data Science Building, 205
 
-Brian's Office Hours: In person in my office SDS Building 434 or Virtual on Discord - Monday 10-12pm or by appointment
+Brian's Office Hours: In person in my office SDS Building 434 or Virtual on Discord - Monday 10-12p am or by appointment
 
 TA office hours: TBD
 
@@ -170,6 +170,7 @@ Technical Support Contacts
     Login/Password: scpshelpdesk@virginia.edu
     UVaCollab: collab-support@virginia.edu
     BbCollaborate Support: http://www.tinyurl.com/uvabbc
+
 
 
 
