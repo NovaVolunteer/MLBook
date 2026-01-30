@@ -1,4 +1,4 @@
-Goal: Build two data prep pipelines using different datasets to get practice with data preparation and question building. In doing so create a new github repo for your work. Think of this as a stand alone project that creates the creation of a workplace and repository. In the repo it is likely best practices to create three files. One for the actual assignment details (this file), a second (python file to) answer questions 1 - 3 and third (python file) for question four. 
+Goal: Build two data prep pipelines using different datasets to get practice with data preparation and question building. In doing so create a new github repo for your work. Think of this as a stand alone project that requires the creation of a workspace and repository. In the repo it is likely best practices to create three files. One for the actual assignment details (this file), a second (python file to) answer questions 1 - 3 and third (python file) for question four. 
 
 Step one: Review these two datasets and brainstorm problems that could be addressed with the dataset. Identify a question for each dataset. 
 
