@@ -141,7 +141,7 @@ The materials below are essentially a starter Machine Learning Library. I will u
 | Week 12 | Unsupervised: PCA | Feature Engineering | | TBD	|
 | Week 13  |  Topic Exploration |Ensemble Methods <br> Random Forest	| |  TBD  |
 | Week 14  | Final Project Prep |[Final Project Overview](tbd)	| | |
-| Week 15 | Final Project| [Final Project Overview](tbd)|  	|  	|
+| Exam | Final Project| [Final Project Overview](tbd)|  May 1st 9-12pm	|  	|
 
 ## A few Policies that will Govern the Class
 
