@@ -133,14 +133,14 @@ The materials below are essentially a starter Machine Learning Library. I will u
 | Week 5  | Introduction to ML Concepts II + Classification	| Machine Learning Process: <br> kNN| |C. pages 98-103|
 | Week 6  |  kNN + Evaluation	| [Evaluation Lab](https://github.com/UVADS/DS-3001/tree/main/07_ML_Eval_Metrics) | All of B. and C. Chpt. 6|
 | Week 7 |  Unsupervised: kMeans | Let's gather together, but separately|NBA Scout for the worst team in the league| 	|
-| Week 5  | Regression|  Linear Regression + Multiple Linear Regression	| [Regression Lab]
-| Week 8  | Special Regression |  Logistic Regression (like regression and classification had a child) |	|  + Quiz 	|
-| Week 9  | Sampling Methods and How Bootstrap + Cross-Validation solves all the problems| | |
-| Week 10  | Nature's Perfect ML analogy: Trees Part I	|  Classification: <br> Decisions Trees + Calibration 	| [Decision Trees](https://github.com/UVADS/DS-3001/tree/main/08_DT_Class)	| TBD and G. Chapter 14.1-14.3 |
-| Week 11  | Nature's Perfect ML analogy: Trees Part II  	| Regression: <br> Decision Trees  	| [Predicting Income for Big Brother]	| F. Chapter 5 and G. Chapter 8 + Quiz |
-| Week 12 | Unsupervised: PCA | Feature Engineering | | TBD	|
-| Week 13  |  Topic Exploration |Ensemble Methods <br> Random Forest	| |  TBD  |
-| Week 14  | Final Project Prep |[Final Project Overview](tbd)	| | |
+| Week 9  | Regression|  Linear Regression + Multiple Linear Regression	| [Regression Lab]
+| Week 10  | Special Regression |  Logistic Regression (like regression and classification had a child) |	|  + Quiz 	|
+| Week 11  | Sampling Methods and How Bootstrap + Cross-Validation solves all the problems| | |
+| Week 12  | Nature's Perfect ML analogy: Trees Part I	|  Classification: <br> Decisions Trees + Calibration 	| [Decision Trees](https://github.com/UVADS/DS-3001/tree/main/08_DT_Class)	| TBD and G. Chapter 14.1-14.3 |
+| Week 13  | Nature's Perfect ML analogy: Trees Part II  	| Regression: <br> Decision Trees  	| [Predicting Income for Big Brother]	| F. Chapter 5 and G. Chapter 8 + Quiz |
+| TBD | Unsupervised: PCA | Feature Engineering | | TBD	|
+| TBD  |  Topic Exploration |Ensemble Methods <br> Random Forest	| |  TBD  |
+| Week 14/15  | Final Project Prep |[Final Project Overview](tbd)	| | |
 | Exam | Final Project| [Final Project Overview](tbd)|  May 1st 9-12pm	|  	|
 
 ## A few Policies that will Govern the Class
@@ -170,6 +170,7 @@ Technical Support Contacts
     Login/Password: scpshelpdesk@virginia.edu
     UVaCollab: collab-support@virginia.edu
     BbCollaborate Support: http://www.tinyurl.com/uvabbc
+
 
 
 
