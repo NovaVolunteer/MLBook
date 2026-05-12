@@ -79,17 +79,18 @@ On any given week, the course will require reviewing short video lectures and co
     your peers as much of the best learning can come from your each other. 
     You'll create stand-alone Juypter notebooks to be evaluated by the course TA. 
    
-    Final projects (15%) – The course will culminate in a final project that 
-    will involve working with a dataset of your choice, giving a presentation, 
+    Final Oral/Project (25%) – The course will culminate in a final project that 
+    will involve working with a dataset of your choice, 
     submitting well-annotated code to include summary information in report form. 
     This is an open-ended project designed to allow groups to choose a topic of 
-    interest from the semester to explore deeper and share with the class. Students 
+    interest from the semester to explore deeper and share with the class. In 
+    reviewing your projects I will design several questions for you individual to 
+    answer with your groups. The idea is to give you practice explaining
+    your models while also ensuring you understand what you are doing. Students 
     will be expected to build the project using github and develop a free standing 
     website built with one of the tools presented in class (GitHub.io or MYST Book)
 
-    Final Oral Exam (10%) - In reviewing your projects I will design several questions 
-    for you individual to answer with your groups. The idea is to give you practice explaining
-    your models while also ensuring you understand what you are doing. 
+       
     
 ## Tech Stack
 
