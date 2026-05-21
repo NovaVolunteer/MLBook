@@ -46,7 +46,8 @@ project:
             - file: 05_linear_regression/assignment.ipynb
             - file: 05_linear_regression/logistic_regression_overview.ipynb
         - title: k Nearest Neighbors for Classification
-          children: 
+          children:
+            - file: 06_knn/knn_overview.ipynb
             - file: 06_knn/KNN.ipynb
             - file: 06_knn/grad_lab.ipynb
         - title: Evaluation
